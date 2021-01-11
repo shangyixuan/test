@@ -9,6 +9,7 @@ module.exports = {
 			}
 		}
 	},
+	publicPath: './',
 	pluginOptions: {
 		'cube-ui': {
 			postCompile: true,
